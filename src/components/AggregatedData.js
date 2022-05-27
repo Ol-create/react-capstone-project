@@ -27,3 +27,19 @@ const AggregatedData = () => {
     </>
   );
 };
+
+AggregatedData.defaultProps = {
+  total: {},
+};
+
+AggregatedData.propTypes = {
+  total: PropTypes.shape(
+    {
+      name: PropTypes.string,
+      aggregatedCases: PropTypes.number,
+      aggregatedDeaths: PropTypes.number,
+    },
+  ),
+};
+
+export default AggregatedData;
