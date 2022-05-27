@@ -6,3 +6,15 @@ $light-blue: #5889e5;
 $dark-blue: #35548b;
 $Lato: 'Lato', sans-serif;
 $Montserat: 'Montserrat', sans-serif;
+
+body {
+	font-family: $Montserat;
+	display: block;
+	background-color: $dark-blue;
+  }
+
+  * {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+  }
