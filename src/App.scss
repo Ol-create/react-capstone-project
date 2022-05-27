@@ -18,3 +18,51 @@ body {
 	padding: 0;
 	box-sizing: border-box;
   }
+
+// Nav Section
+.header {
+	width: 100%;
+	background-color: $dark-blue;
+	color: $white;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 10px 12px;
+	position: fixed;
+	top: 0;
+	z-index: 10;
+	box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.3);
+  }
+
+  .back {
+	display: flex;
+	align-items: center;
+  }
+
+  .back-btn {
+	border: none;
+	background-color: transparent;
+  }
+
+  .year {
+	font-family: $Lato;
+	font-size: 1.25rem;
+	font-weight: bold;
+  }
+
+  .app-caption {
+	font-size: 1.55rem;
+  }
+
+  .microphone,
+  .cog,
+  .chevron-left {
+	width: 24px;
+	height: 24px;
+	color: $white;
+  }
+
+  .cog,
+  .year {
+	margin-left: 24px;
+  }
