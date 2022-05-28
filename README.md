@@ -24,6 +24,10 @@
 
 🔗 [Netlify](https://covidtracker9.netlify.app/)
 
+## Presentation
+🔗 [Presentation on loom](https://www.loom.com/share/6c17724ec7164582a62f17a0c9bd0213)
+
+
 
 ## Getting Started
 
@@ -40,6 +44,7 @@ This will create a directory in the name of the project folder.
 
 - `cd react-capstone-project`
 - Run `npm install` to install dependencies
+
 
 ### Usage
 
