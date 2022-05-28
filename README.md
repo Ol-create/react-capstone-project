@@ -45,6 +45,7 @@ This will create a directory in the name of the project folder.
 - `cd react-capstone-project`
 - Run `npm install` to install dependencies
 
+
 ### Usage
 
 - Run `npm start` to start app
