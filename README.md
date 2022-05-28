@@ -22,9 +22,7 @@
 
 ## Live site 🚀
 
-🔗 [Heroku] https://ol-create.github.io/Mobile-Project2.0/
-
-🔗 [Netlify] https://twitter.com/OluyemiPaul2
+🔗 [Netlify](https://covidtracker9.netlify.app/)
 
 
 ## Getting Started
